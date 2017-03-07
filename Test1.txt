@@ -1,2 +1,9 @@
 Czeœæ tu test 1
+<<<<<<< HEAD
 i w test 1 coœ robimy a co tam...
+=======
+a teraz go trzeba
+rozbudowaæ
+o kolejne
+linie
+>>>>>>> refs/heads/Zmiana1
