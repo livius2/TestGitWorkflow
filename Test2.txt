@@ -1,11 +1,8 @@
-Uzupe³nienie
-treœci
-a tu wstawiæ
+Uzupełnienie
+treści
+a tu wstawić
 zmiana remote
 test 2
-<<<<<<< HEAD
-i tu te� co� doda�
+i tu też coœ dodaæ
 lokalna zmiana
-=======
-i tu te¿ coœ dodaæ
->>>>>>> refs/remotes/origin/master
+i tu też coć dodać
