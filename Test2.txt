@@ -1,6 +1,8 @@
-Uzupe³nienie
-treœci
-a tu wstawiæ
+Uzupełnienie
+treści
+a tu wstawić
 zmiana remote
 test 2
-i tu te¿ coœ dodaæ
+i tu też coœ dodaæ
+lokalna zmiana
+i tu też coć dodać
