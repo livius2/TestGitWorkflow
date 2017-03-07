@@ -1,9 +1,6 @@
-Czeœæ tu test 1
-<<<<<<< HEAD
-i w test 1 coœ robimy a co tam...
-=======
+ï»¿CzeÅ›Ä‡ tu test 1
+i w test 1 coÅ› robimy a co tam...
 a teraz go trzeba
-rozbudowaæ
+rozbudowaÄ‡
 o kolejne
 linie
->>>>>>> refs/heads/Zmiana1
